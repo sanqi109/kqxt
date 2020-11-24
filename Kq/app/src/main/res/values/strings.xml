@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kq</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="account_hint">请输入用户名</string>
+    <string name="phone">请输入手机号</string>
+    <string name="pwd_hint">请输入密码</string>
+    <string name="phonecode">获取验证码</string>
+    <string name="verification_code">验证码</string>
+    <string name="retrieve_password">密码找回</string>
+</resources>

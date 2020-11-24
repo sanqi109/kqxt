@@ -1,0 +1,2 @@
+rootProject.name='Kq'
+include ':app'
